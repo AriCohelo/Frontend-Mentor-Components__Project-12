@@ -54,6 +54,7 @@ body {
 		font-size: 0.9375rem;
 	}
 	&__stats {
+		margin-top: 4rem;
 		@include flexer(row, left, center);
 		gap: 5rem;
 		&-number {
